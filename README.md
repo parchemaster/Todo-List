@@ -6,6 +6,10 @@ time for the task and dependencies on other subtasks. Tasks will be categorized 
 
 
 <img src="photo/Screenshot 2022-03-15 at 13.32.37.png"/>
+<img src="photo/Screenshot 2022-03-15 at 13.32.47.png"/>
+<img src="photo/Screenshot 2022-03-15 at 13.32.55.png"/>
+
+
 
 
 ## Team Information
