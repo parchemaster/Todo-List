@@ -1,0 +1,4 @@
+Do laundry; 5th Avenue; 2021-10-29 13:49; 2021-10-25 13:49; 3; Home task; 0; 2099-10-25 13:49; WAITING; 0
+Do math; At school; 2021-10-29 22:49; 2021-10-15 13:52; 2; School; 0; 2099-10-25 13:49; WAITING; 0
+Buy carrots; Shop; 2021-10-29 21:49; 2021-10-20 13:55; 1; Shop; 0; 2099-10-25 13:49; WAITING; 0
+Repair washing machine; 5th Avenue; 2021-10-28 21:49; 2021-10-09 13:55; 4; Home task; 0; 2099-10-25 13:49; WAITING; 0
