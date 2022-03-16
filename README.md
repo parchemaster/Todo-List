@@ -5,6 +5,8 @@ you what is the description of the task, where should you do it, when is the due
 time for the task and dependencies on other subtasks. Tasks will be categorized by categories, progress and status. 
 
 
+![photo](Screenshot 2022-03-15 at 13.32.37.png)
+
 ## Team Information
 
 | Seminar Group | Team |
